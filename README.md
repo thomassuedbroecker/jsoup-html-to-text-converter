@@ -1,6 +1,6 @@
-# Writing an `HTML`-to-text  converter can be the first task in an AI pipeline with the `JSOUP Java Libary`
+# Writing an `HTML`-to-text  converter can be the first task in an AI pipeline with the `JSOUP Java Library`
 
-This project is about the powerful [JSOUP Java Libary](https://jsoup.org/), which gives you the freedom to convert an [`HTML`](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) to `plain` formatted text, based on your requirements by extracting and inspecting `HTML` elements in various ways. We check two methods to do this in this example.
+This project is about the powerful [JSOUP Java Library](https://jsoup.org/), which gives you the freedom to convert an [`HTML`](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) to `plain` formatted text, based on your requirements by extracting and inspecting `HTML` elements in various ways. We check two methods to do this in this example.
 
 **Content**
 
